@@ -33,7 +33,7 @@ elif opponent_choice==1:
 elif opponent_choice==2:
     print(scissors)
 else:
-    print("invalid no. You lose.")
+    print("invalid no. You lose.") 
     import sys
     sys.exit()
 
